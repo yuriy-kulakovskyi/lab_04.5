@@ -1,0 +1,3 @@
+/Users/yura_kulakovskyi/Documents/C++/AP/PR4/PR4_5/cmake-build-debug/CMakeFiles/PR4_5.dir
+/Users/yura_kulakovskyi/Documents/C++/AP/PR4/PR4_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yura_kulakovskyi/Documents/C++/AP/PR4/PR4_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
